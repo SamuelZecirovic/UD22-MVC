@@ -1,3 +1,3 @@
 # UD22_ej2
 
-Samu, Víctor, Adri
+Samu Zecirovic, Víctor Castillo , Adri Rodriguez
